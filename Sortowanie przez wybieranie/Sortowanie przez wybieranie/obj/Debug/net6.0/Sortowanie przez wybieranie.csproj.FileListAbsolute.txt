@@ -1,0 +1,14 @@
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\bin\Debug\net6.0\Sortowanie przez wybieranie.exe
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\bin\Debug\net6.0\Sortowanie przez wybieranie.deps.json
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\bin\Debug\net6.0\Sortowanie przez wybieranie.runtimeconfig.json
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\bin\Debug\net6.0\Sortowanie przez wybieranie.dll
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\bin\Debug\net6.0\Sortowanie przez wybieranie.pdb
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\obj\Debug\net6.0\Sortowanie przez wybieranie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\obj\Debug\net6.0\Sortowanie przez wybieranie.AssemblyInfoInputs.cache
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\obj\Debug\net6.0\Sortowanie przez wybieranie.AssemblyInfo.cs
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\obj\Debug\net6.0\Sortowanie przez wybieranie.csproj.CoreCompileInputs.cache
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\obj\Debug\net6.0\Sortowanie przez wybieranie.dll
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\obj\Debug\net6.0\refint\Sortowanie przez wybieranie.dll
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\obj\Debug\net6.0\Sortowanie przez wybieranie.pdb
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\obj\Debug\net6.0\Sortowanie przez wybieranie.genruntimeconfig.cache
+C:\Users\ewel4\source\repos\Sortowanie przez wybieranie\Sortowanie przez wybieranie\obj\Debug\net6.0\ref\Sortowanie przez wybieranie.dll
